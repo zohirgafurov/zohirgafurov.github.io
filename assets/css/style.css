@@ -444,6 +444,9 @@ and (max-device-width : 568px) {
   .posts p {
     font-size: 120%;
   }
+  .footer{
+    width: 100%;
+  }
 
   iframe {
     width: 88%;
