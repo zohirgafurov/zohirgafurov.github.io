@@ -353,7 +353,7 @@ and (min-device-width : 320px)
 and (max-device-width : 568px) {
 
   .header {
-    background-color: #257965;
+    background-color: darkslateblue;
     min-width: 100%;
     height: 20%;
     text-align: center;
@@ -404,9 +404,7 @@ and (max-device-width : 568px) {
     display: none;
   }
 
-  .footer {
-    display: none;
-  }
+  
 
   ul.menu {
     float: none;
