@@ -348,6 +348,13 @@ border-left: none;
 .footer p {
   padding: 0 0 10px 0;
 }
+.face{
+  font-size: 0.7em;
+}
+.face a{
+  color: #a8aa94;
+  text-decoration: underline;
+}
 
 
 /* CSS Mobile */
