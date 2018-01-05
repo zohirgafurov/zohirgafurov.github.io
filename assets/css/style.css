@@ -464,7 +464,9 @@ and (max-device-width : 568px) {
     width: 88%;
     height: 100%;
   }
-
+  table{
+    min-width: 100%
+  }
 
 
 
