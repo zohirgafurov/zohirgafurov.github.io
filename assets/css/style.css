@@ -90,6 +90,10 @@ ul li {
   padding: 4px 0 0 0;
   color: #999;
 }
+.logo_text h3{
+  font-size: 0.9em;
+  float: right;
+}
 
 .menubar {
   width: 900px;
