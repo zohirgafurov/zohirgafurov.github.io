@@ -349,7 +349,8 @@ border-left: none;
   padding: 0 0 10px 0;
 }
 .face{
-  font-size: 0.7em;
+  font-size: 0.9em;
+  text-align: left;
 }
 .face a{
   color: #a8aa94;
